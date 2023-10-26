@@ -23,7 +23,9 @@
 ---
 
 ### Contact
-- Email: baros2san@gmail.com
+[![Email](https://img.shields.io/badge/Email-baros2san%40gmail.com-brightgreen?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baros2san@gmail.com)
+
 <!--
+- Email: baros2san@gmail.com
 - 🌐 LinkedIn: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
 -->
